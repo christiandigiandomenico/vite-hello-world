@@ -7,6 +7,8 @@ export default {
 <template>
     <div class="jumbotron">
 
+        <img src="../assets/vitejs.jpg" alt="vite icon">
+
         <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or
             information.</p>
 
